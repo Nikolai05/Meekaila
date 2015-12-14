@@ -1,0 +1,12 @@
+footer {
+  background: url(../images/footer.jpg) center center;
+}
+
+footer ul {
+  display: inline-block;
+}
+
+footer ul li {
+  text-shadow: 10px;
+  color: white;
+}
